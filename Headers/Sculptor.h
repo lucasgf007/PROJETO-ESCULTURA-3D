@@ -1,6 +1,5 @@
 #ifndef SCULPTOR_H
 #define SCULPTOR_H
-
 /**
  * @file Sculptor.h
  * @brief Class Sculptor
@@ -15,6 +14,14 @@ struct Voxel {
 // Transparency
   bool isOn; // Included or not
 };
+
+/**
+ * @brief Sculptor
+ * 
+ * @param _nx
+ * @param _ny
+ * @param _nz
+ */
 
 class Sculptor {
 protected:

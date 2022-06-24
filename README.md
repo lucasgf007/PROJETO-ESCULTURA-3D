@@ -34,6 +34,7 @@ O projeto ainda está em desenvolvimento então abaixo temos o que foi feito at�
 
 - [X] Classe Sculptor e struct Voxel
 - [X] Alocação Dinâmica
+- [X] Classe FiguraGeometrica
 - [X] Gravção de arquivo OFF
 - [X] Documentação em doxygen
 

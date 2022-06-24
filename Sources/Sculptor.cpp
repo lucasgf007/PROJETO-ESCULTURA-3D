@@ -1,4 +1,4 @@
-#include "Sculptor.h"
+#include "../Headers/Sculptor.h"
 #include "cmath"
 #include "fstream"
 #include "iostream"
